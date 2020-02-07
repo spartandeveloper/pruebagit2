@@ -36,7 +36,7 @@ print("Hello world!")
 # los comentarios en la line
 # [Markdown](https://daringfireball.net/projects/
 # Este archivo incluye los vuelos que salen de New York,  los aeropuertes de arribo
-# rendimiento de los vuelos que parten desde NY 
+# rendimiento de los vuelos quegfdf parten desde NY 
 # (EWR, JFK, and LGA) para el año 2013. Estos datos
 # en el archivo `flights.csv`.
 
